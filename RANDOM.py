@@ -135,8 +135,6 @@ class Main:
 		if Ahsan in ["3", "03"]:
 			os.system("python Dump.py")
 		
-print('\033[1;31mINCORECT OPTION!\033[1;31m')
-        xyz()
 
 def password():
     
