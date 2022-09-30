@@ -136,7 +136,7 @@ class Main:
 			os.system("python Dump.py")
 		
 print('\033[1;31mINCORECT OPTION!\033[1;31m')
-        Ahsan()
+        xyz()
 
 def password():
     
