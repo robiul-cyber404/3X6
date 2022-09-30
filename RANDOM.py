@@ -618,14 +618,6 @@ def m(uid,pwx,tl):
         sys.stdout.flush()
         checks(ok,cp)
 
-	
-				break
-			else:
-				continue
-
-		self.loop +=1
-
-
 def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 	clear()
@@ -657,5 +649,9 @@ def Subscraption():
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
 		os.system('am start https://wa.me/+8801923092304?text=' + tks)
-		Subscraption()        
-Subscraption()
+xyz()    
+xyz()
+
+
+if __name__ == '__main__':
+    xyz()
