@@ -618,7 +618,7 @@ def m(uid,pwx,tl):
         sys.stdout.flush()
         checks(ok,cp)
 
-def Subscraption():
+def xyz():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrkausar-cov', 'r').read()
 	clear()
 	print(logo)
